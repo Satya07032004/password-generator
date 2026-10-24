@@ -89,9 +89,9 @@ img {
   height: 18px;
   /* angle: 0 deg; */
   opacity: 1;
-  top: 1px;
-  left: 3px;
-  right: 0;
+  position: absolute;
+  left: 155px;
+  top: 277px;
 }
 
 .main {
